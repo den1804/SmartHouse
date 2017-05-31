@@ -1,0 +1,86 @@
+C:\Users\Александр\Desktop\arduino\arduino\bin\Debug\arduino.exe.config
+C:\Users\Александр\Desktop\arduino\arduino\bin\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino\arduino\bin\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\arduino\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\Александр\Desktop\arduino\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\Александр\Desktop\arduino\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\arduino\arduino\obj\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino\arduino\obj\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino - копия\arduino\bin\Debug\arduino.exe.config
+C:\Users\Александр\Desktop\arduino - копия\arduino\obj\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino - копия\arduino\obj\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino - копия\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\Александр\Desktop\arduino - копия\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\Александр\Desktop\arduino - копия\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\arduino - копия\arduino\bin\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino - копия\arduino\bin\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino - копия\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\bin\Debug\arduino.exe.config
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\obj\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\obj\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\bin\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\bin\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\bin\Debug\arduino.exe.config
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\obj\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\obj\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\bin\Debug\arduino.exe
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\bin\Debug\arduino.pdb
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\Александр\Desktop\arduino - потоки + запись в файл сразу - копия\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\практика\arduino\bin\Debug\arduino.exe.config
+C:\Users\Александр\Desktop\практика\arduino\obj\Debug\arduino.exe
+C:\Users\Александр\Desktop\практика\arduino\obj\Debug\arduino.pdb
+C:\Users\Александр\Desktop\практика\arduino\bin\Debug\arduino.exe
+C:\Users\Александр\Desktop\практика\arduino\bin\Debug\arduino.pdb
+C:\Users\Александр\Desktop\практика\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\практика\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\Александр\Desktop\практика\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\Александр\Desktop\практика\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\3 курс\ГОТОВАЯ ПРАКТИКА\arduino\bin\Debug\arduino.exe.config
+C:\Users\Александр\Desktop\3 курс\ГОТОВАЯ ПРАКТИКА\arduino\obj\Debug\arduino.exe
+C:\Users\Александр\Desktop\3 курс\ГОТОВАЯ ПРАКТИКА\arduino\obj\Debug\arduino.pdb
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\bin\Debug\arduino.exe.config
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\obj\Debug\arduino.exe
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\obj\Debug\arduino.pdb
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\bin\Debug\arduino.exe
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\bin\Debug\arduino.pdb
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\arduino126_meteostanciya\arduino\obj\Debug\arduino.Form2.resources
+C:\Users\Denis\Desktop\arduinoSmartHouse\arduino\bin\Debug\arduino.exe.config
+C:\Users\Denis\Desktop\arduinoSmartHouse\arduino\obj\Debug\arduino.exe
+C:\Users\Denis\Desktop\arduinoSmartHouse\arduino\obj\Debug\arduino.pdb
+C:\Users\Denis\Desktop\SmartHouse\arduino\bin\Debug\arduino.exe.config
+C:\Users\Denis\Desktop\SmartHouse\arduino\obj\Debug\arduino.exe
+C:\Users\Denis\Desktop\SmartHouse\arduino\obj\Debug\arduino.pdb
+E:\SmartHouse\arduino\bin\Debug\arduino.exe.config
+E:\SmartHouse\arduino\obj\Debug\arduino.exe
+E:\SmartHouse\arduino\obj\Debug\arduino.pdb
+E:\SmartHouse\arduino\bin\Debug\arduino.exe
+E:\SmartHouse\arduino\bin\Debug\arduino.pdb
+E:\SmartHouse\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+E:\SmartHouse\arduino\obj\Debug\arduino.Form1.resources
+E:\SmartHouse\arduino\obj\Debug\arduino.Form2.resources
+E:\SmartHouse\arduino\obj\Debug\arduino.Properties.Resources.resources
+E:\SmartHouse\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+E:\SmartHouse\arduino\bin\Debug\arduino.exe.manifest
+E:\SmartHouse\arduino\bin\Debug\arduino.application
+E:\SmartHouse\arduino\obj\Debug\arduino.exe.manifest
+E:\SmartHouse\arduino\obj\Debug\arduino.application
+D:\SmartHouse\arduino\bin\Debug\arduino.exe.config
+D:\SmartHouse\arduino\obj\Debug\arduino.exe
+D:\SmartHouse\arduino\obj\Debug\arduino.pdb
+D:\SmartHouse\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+D:\SmartHouse\arduino\obj\Debug\arduino.Form1.resources
+D:\SmartHouse\arduino\obj\Debug\arduino.Form2.resources
+D:\SmartHouse\arduino\obj\Debug\arduino.Properties.Resources.resources
+D:\SmartHouse\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
